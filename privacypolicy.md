@@ -1,13 +1,13 @@
-#プライパシーポリシー
+#Privacy policy
 
-第三者に個人を特定できる情報を提供することはありません。個人情報の管理には細心の注意を払います。
- 
-アプリの利便性向上のため、匿名で、個人を特定できない範囲の情報を取得し、アクセス解析をしております。
+We do not provide personally identifiable information to third parties. We pay close attention to the management of personal information.
 
-例えば、アプリがクラッシュした時、どの部分でクラッシュしたかを匿名で送信し、バグの素早い修正に役立たせております。
+To improve the convenience of the application, we anonymously obtain non-personally identifiable information and analyze access.
 
-また、デバイスやアプリバージョンの使用率、特定の機能の使用率などを解析し、アプリの改善に役立てています。
- 
-※ご不明な点があれば、下記の開発者ツイッターアカウントまでお問い合わせください。
+For example, when an app crashes, we anonymously send the location of the crash so that we can fix the bug quickly.
+
+We also analyze the usage rate of device and app versions, the usage rate of specific functions, etc. to help improve the app.
+
+* If you have any questions, please contact the developer Twitter account below.
 
 https://twitter.com/@ymmt_swiftui
